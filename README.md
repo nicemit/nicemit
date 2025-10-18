@@ -45,8 +45,6 @@ These projects are currently private and actively developed — links will only 
 - my-services — A lightweight "AWS-on-my-laptop" idea: a set of shell tooling and simple service templates to run, start, stop, and manage dockerized apps from the terminal. I use this to host personal services — fun fact: readergo is currently hosted on my old gaming laptop using my‑services.  
   https://github.com/nicemit/my-services
 
-(If you want more technical blurbs, usage snippets, or screenshots for any of these, I can add them once you tell me what to show or I can extract README snippets from each repo if access is available.)
-
 ---
 
 ## 📈 GitHub Stats
