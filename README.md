@@ -1,82 +1,101 @@
-# Hi — I’m Amit 👋
+# Hi — I’m Amit 👋  
+**Principal Engineer / Tech Lead • Platform Builder • Systems Architect • Sci-Fi Enthusiast**
 
-Tech Lead • Techy • Gamer • Sci‑fi sucker
+I build **production-grade platforms that handle complex business workflows, burst traffic, and revenue-critical paths.**  
+Currently leading architecture and delivery of a **no-code / low-code product powering US enterprise customers**, focused on correctness, extensibility, and developer ergonomics.
 
-Welcome to my GitHub corner. I lead a pivotal part of a US‑based product — a no‑code / low‑code solution that helps tame highly complex customer requirements. I think technically, stay open‑minded, and always prefer well‑done solutions over "done fast."
+I care deeply about **reliability, clean system boundaries, and long-term maintainability** — not just shipping code, but shipping systems that scale safely.
 
 ---
 
 ## 🚀 About Me
-- Name: Amit  
-- Role: Tech Lead — currently shipping a no‑code / low‑code product that solves complex customer problems  
-- Location: Bangalore  
-- Email: amitdawar44@gmail.com
 
-Short bio: Techy, gamer, and sucker for sci‑fi. I approach problems with curiosity, weigh trade‑offs practically, and prioritise craftsmanship in software.
+- **Role:** Principal Engineer / Tech Lead — Platform & Architecture  
+- **Location:** Bangalore, India  
+- **Focus:** Scalable backend systems, product platforms, developer tooling  
+- **Contact:** amitdawar44@gmail.com
 
----
-
-## What I value
-- Open‑minded collaboration and pragmatic engineering
-- Clear APIs, thoughtful defaults, and great developer ergonomics
-- Prioritising well‑designed, maintainable solutions over quick hacks
-- Teaching, mentoring, and helping teams ship confidently
+> I design and own core platform architecture, data workflows, and extensibility layers for complex business domains.  
+> My work sits directly on **customer-facing and revenue-impacting systems.**
 
 ---
 
-## 🛠️ Tech Stack
-- Languages & runtimes: Node.js, TypeScript, Golang (learning)
-- Frontend: React, Next.js
-- Backend: Fastify, Node.js
-- Tooling & infra: Docker, GitHub Actions, PostgreSQL, Redis
-- Other: editor integrations, extensible libraries, DX tooling
+## What I Value
+
+- Ownership over outcomes — not just features  
+- Clean service boundaries, thoughtful defaults, and great developer experience  
+- Stable, observable, and debuggable production systems  
+- Teaching teams to think in **systems, not tickets**
 
 ---
 
-## ⭐ Featured Projects (brief)
-These projects are currently private and actively developed — links will only work for accounts with access.
+## 🛠 Tech Stack
 
-- readergo — My brainchild: an all‑in‑one, keyboard‑first knowledge platform for writers and knowledge workers. Highly extensible, community‑driven, and designed to help people think in diverse ways, manage personalized data, and interact with content intuitively. Built with Next.js 15, TipTap, and PostgreSQL. This is my primary focus right now.  
-  https://github.com/nicemit/readergo
-
-- zframework — A fast, opinionated TypeScript framework I’m building to bootstrap professional apps quickly. Works well with IDEs like Cursor and is actively under development to provide shared utilities, conventions, and developer ergonomics across projects.  
-  https://github.com/nicemit/zframework
-
-- my-services — A lightweight "AWS-on-my-laptop" idea: a set of shell tooling and simple service templates to run, start, stop, and manage dockerized apps from the terminal. I use this to host personal services — fun fact: readergo is currently hosted on my old gaming laptop using my‑services.  
-  https://github.com/nicemit/my-services
+- **Languages:** TypeScript, Node.js, Golang (active), Bash  
+- **Frontend:** React, Next.js  
+- **Backend:** Fastify, modular service architecture  
+- **Data:** PostgreSQL, Redis  
+- **Infra:** Docker, GitHub Actions, self-hosted cloud stacks  
+- **Special Interests:** platform engineering, extensibility frameworks, DX tooling, workflow engines
 
 ---
 
-## 📈 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicemit&show_icons=true&count_private=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicemit&layout=compact&theme=tokyonight)
+## ⭐ Featured Projects  
+*(Private, access-controlled)*
+
+### **readergo** — Knowledge Platform for Power Thinkers  
+A keyboard-first, extensible knowledge platform for writers and knowledge workers.  
+Built for **deep personalization, structured thinking, and plugin-driven extensibility.**  
+Designed as a long-term personal data platform, not just a note-taking app.
+
+**Stack:** Next.js 15, TipTap, PostgreSQL  
+🔗 https://github.com/nicemit/readergo
+
+---
+
+### **zframework** — Opinionated TypeScript Platform Framework  
+A fast, modular TypeScript platform framework to bootstrap production-grade apps with consistent conventions, shared utilities, and IDE-friendly developer experience.
+
+🔗 https://github.com/nicemit/zframework
+
+---
+
+### **my-services** — Personal Cloud Toolkit  
+A lightweight “AWS-on-my-laptop” system for managing containerized services locally and on self-hosted machines.  
+Powers multiple personal production services — including **readergo** — running on self-managed hardware.
+
+🔗 https://github.com/nicemit/my-services
 
 ---
 
 ## 🤝 Collaboration
-I enjoy collaborating on:
-- Developer tooling and editor integrations
-- No‑code / low‑code platforms and UX for complex domains
-- Robust backend systems and APIs for scale
 
-How to work with me: open an issue, submit a PR, or ping me on LinkedIn — I value clear proposals, thoughtful trade‑offs, and inclusive reviews.
+I enjoy collaborating on:
+
+- Platform engineering & extensible systems  
+- No-code / low-code infrastructure  
+- Workflow engines & domain modeling  
+- High-reliability backend services  
+- Developer tooling & IDE integrations  
+
+I value clarity, trade-off thinking, and respectful code reviews.
+
+---
+
+## 🧭 How I Work
+
+- Think in systems, not features  
+- Design for correctness, observability, and long-term scale  
+- Balance speed with structural integrity  
+- Prefer boring, predictable infrastructure over clever hacks  
 
 ---
 
 ## 📫 Connect
+
 - Email: amitdawar44@gmail.com  
-- Instagram: https://www.instagram.com/dam___it?igsh=enYzam8yaWM3Mzdx  
+- GitHub: https://github.com/nicemit  
 - LinkedIn: https://www.linkedin.com/in/amit-d-93299565/  
-- GitHub: https://github.com/nicemit
+- Instagram: https://www.instagram.com/dam___it?igsh=enYzam8yaWM3Mzdx
 
 ---
-
-## 🧭 How I work
-- I think deeply about the problem before choosing a solution.
-- I prioritise maintainability, clarity, and long‑term value.
-- I stay open to ideas and prefer collaborative decision‑making.
-- I balance technical excellence with business needs and delivery.
-
----
-
-Thanks for stopping by — if anything here resonates, let’s connect and build something useful together!
