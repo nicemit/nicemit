@@ -1,4 +1,4 @@
-Hey — I'm Nicemit.
+Hey — I'm Amit.
 
 I enjoy coding, solving interesting problems, and diving into niche programs and tools. I like learning by building small projects and sharing what I learn. 
 
