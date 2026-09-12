@@ -1,7 +1,10 @@
-Hey, I'm Amit.
+# Hey, I'm Amit 👋
 
-I enjoy coding, solving interesting problems, and exploring niche software, tools, and technologies. I like learning by building, whether it's a small experiment, a developer tool, or a bigger project.
+I enjoy coding, solving interesting problems, and exploring niche software, tools, and technologies.
 
-I'm especially interested in open source, self-hosting, AI, developer tools, and building software that gives people more control over their technology.
+I like learning by building and sharing what I learn.
 
-I believe the future is open source and self-hosted.
+🧪 **Building:** [Carbora Labs](https://carboralabs.com)
+🛠️ **Interests:** Open Source · Self-hosting · AI · Developer Tools · Hardware
+
+[🌐 Website](https://carboralabs.com) · [💼 LinkedIn](https://www.linkedin.com/)
